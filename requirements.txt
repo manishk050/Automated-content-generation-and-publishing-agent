@@ -1,0 +1,2 @@
+# No third party Python dependencies. Standard library only.
+# Python 3.10 or newer is enough for the demo.

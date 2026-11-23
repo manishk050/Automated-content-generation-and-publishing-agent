@@ -1,0 +1,12 @@
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+node_modules/
+out/
+*.mp4
+*.mov
+__pycache__/
+.DS_Store
